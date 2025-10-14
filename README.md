@@ -50,11 +50,11 @@ I enjoy learning how things work behind the scenes and hope to build creative, p
 
 > ✨ Some of my personal projects and learning experiments 👇
 
-1. [**Portfolio Website**](https://github.com/umerzafar/Portfolio)  
-   🖥️ _A simple personal website built using HTML, CSS, and JavaScript._
+1. [**My Computing Website**](https://github.com/Umerzafar12941/official-proj)  
+   🖥️ _A simple personal website which i  built using HTML, CSS, and JavaScript as my first uni solo project._
 
-2. [**Python Projects**](https://github.com/umerzafar/Python-Projects)  
-   🐍 _A collection of small Python scripts and exercises I built while learning._
+2. [**CCS HTML Projects**](https://github.com/umerzafar/Python-Projects)  
+   🐍 _A collection of small css ,html scripts and exercises I built while learning._
 
 3. [**Data Analysis**](https://github.com/umerzafar/Data-Analysis)  
    📊 _Exploring data visualization with Pandas and Matplotlib._
