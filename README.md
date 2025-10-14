@@ -1,6 +1,6 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=230&section=header&text=Umer%20Zafar%20|%20Computer%20Science%20Student&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
-# 👋 Hi, I'm Umer Zafar!
+#  Umer Zafar!
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -24,10 +24,9 @@
 ---
 
 ## 🧭 About Me
-
-🎓 I’m a **Computer Science student** who loves exploring programming, design, and technology.  
-💻 I enjoy learning step by step, building small projects, and discovering how real-world software works.  
-🌱 Currently, I’m improving my coding skills and exploring **web development** and **Python programming**.
+Hey there! 
+I’m currently studying data science and love experimenting with code.
+I enjoy learning how things work behind the scenes and hope to build creative, practical projects as I grow my skills.
 
 ---
 
