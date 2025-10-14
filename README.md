@@ -1,16 +1,105 @@
-## Hi there 👋
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=230&section=header&text=Umer%20Zafar%20|%20Software%20Developer&fontColor=ffffff&fontSize=40&animation=fadeIn)
 
-<!--
-**Umerzafar12941/Umerzafar12941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  I'm Umer Zafar!
 
-Here are some ideas to get you started:
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+## 🧭 Table of Contents
+1. [About Me](#-about-me)
+2. [Skills](#%EF%B8%8F-skills)
+3. [My GitHub Repositories](#-my-github-repositories)
+4. [Stats & GitHub Activity](#-stats--github-activity)
+5. [Experience Table](#-my-experience)
+6. [Goals Checklist](#-goals-checklist)
+7. [Code Example](#-code-example)
+8. [Contact Me](#-contact-me)
+
+---
+
+## 🧭 About Me
+**Name:** Umer Zafar  
+**University:** University of XYZ, Department of Computer Science  
+
+Hi there! 👋  
+I’m a passionate learner who loves technology, programming, and design.  
+My goal is to become a skilled software developer and build useful digital solutions.
+
+---
+
+## 🛠️ Skills
+
+Here are some of my technical skills and tools I work with:
+
+### 🧩 Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 My GitHub Repositories
+> Some of my favorite projects 👇
+
+1. [**Portfolio Website**](https://github.com/umerzafar/Portfolio)  
+   _Personal website built with HTML, CSS, and JavaScript_
+
+2. [**Python Projects**](https://github.com/umerzafar/Python-Projects)  
+   _A collection of Python scripts for beginners and automation_
+
+3. [**Data Analysis**](https://github.com/umerzafar/Data-Analysis)  
+   _Analyzing datasets using Pandas and Matplotlib_
+
+---
+
+## 📊 Stats & GitHub Activity
+
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=umerzafar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerzafar&layout=compact&theme=radical)
+
+---
+
+## 🧱 My Experience
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| **Portfolio Website** | Built my personal site | HTML, CSS, JS |
+| **Python Projects** | Practiced programming tasks | Python |
+| **Data Analysis** | Visualized datasets | Pandas, Matplotlib |
+
+---
+
+## ✅ Goals Checklist
+- [x] Create my GitHub profile README  
+- [x] Learn Markdown syntax  
+- [ ] Build more open-source projects  
+- [ ] Learn React.js  
+- [ ] Contribute to open source  
+
+---
+
+## 🧩 Code Example
+Here’s a simple Python snippet 👇
+
+```python
+def greet(name):
+    print(f"Hello, {name}! 👋")
+
+greet("GitHub World")
+
+✨ Contact Me
+
+📧 Email: youremail@email.com
+
+🔗 LinkedIn: linkedin.com/in/yourprofile
+
+🌍 Portfolio: yourwebsite.com
+
+💬 Thanks for visiting my profile!
+
+⭐ If you like my work, consider following me or giving a star to my repositories!
