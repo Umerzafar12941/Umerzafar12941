@@ -9,9 +9,9 @@
 ---
 
 ## 🧭 Table of Contents 
-
+![Section Banner](https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=60&section=header&text=📘%20Table%20of%20Contents&fontColor=ffffff&fontSize=24)
 > *Click on a section to jump directly to it* ⚡  
->![Section Banner](https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=60&section=header&text=📘%20Table%20of%20Contents&fontColor=ffffff&fontSize=24)
+>
 > - [🧭 About Me](#-about-me)  
 > - [🛠️ Skills](#%EF%B8%8F-skills)  
 > - [📂 My GitHub Repositories](#-my-github-repositories)  
@@ -24,6 +24,7 @@
 ---
 
 ## 🧭 About Me
+![Section Banner](https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=60&section=header&text=👨‍💻%20About%20Me&fontColor=ffffff&fontSize=24)
 Hey there! 
 I’m currently studying data science and love experimenting with code.
 I enjoy learning how things work behind the scenes and hope to build creative, practical projects as I grow my skills.
@@ -101,7 +102,7 @@ greet("GitHub World")
 
 ## 📬 Contact Me
 
-📧 **Email:** [youremail@email.com](mailto:youremail@email.com)  
+📧 **Email:** [bsdsf24a028@pucit.edu.pk](mailto:youremail@email.com)  
 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 🌍 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
