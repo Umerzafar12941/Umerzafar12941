@@ -8,9 +8,10 @@
 
 ---
 
-## 🧭 Table of Contents
+## 🧭 Table of Contents 
+
 > *Click on a section to jump directly to it* ⚡  
->
+>![Section Banner](https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=60&section=header&text=📘%20Table%20of%20Contents&fontColor=ffffff&fontSize=24)
 > - [🧭 About Me](#-about-me)  
 > - [🛠️ Skills](#%EF%B8%8F-skills)  
 > - [📂 My GitHub Repositories](#-my-github-repositories)  
