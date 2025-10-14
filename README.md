@@ -22,11 +22,11 @@
 
 ## 🧭 About Me
 **Name:** Umer Zafar  
-**University:** University of XYZ, Department of Computer Science  
+**University:**punjab  University of Computer Sciences , Department of Data Science  
 
-Hi there! 👋  
-I’m a passionate learner who loves technology, programming, and design.  
-My goal is to become a skilled software developer and build useful digital solutions.
+Hey there!
+I’m currently studying data science and love experimenting with code.
+I enjoy learning how things work behind the scenes and hope to build creative, practical projects as I grow my skills.
 
 ---
 
