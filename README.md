@@ -1,4 +1,5 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=230&section=header&text=Umer%20Zafar%20|%20Computer%20Science%20Student&fontColor=ffffff&fontSize=40&animation=fadeIn)
+![Header Banner](https://capsule-render.vercel.app/api?type=rect&color=0:000428,100:004e92&height=230&section=header&text=Umer%20Zafar%20|%20Computer%20Science%20Student&fontColor=00FFFF&fontSize=38&animation=twinkling&fontAlignY=40&desc=Learning%20%26%20Building%20the%20Future%20of%20Tech&descAlignY=70&descAlign=50)
+
 
 #  Umer Zafar!
 
