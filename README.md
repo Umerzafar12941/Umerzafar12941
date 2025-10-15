@@ -3,8 +3,9 @@
 
 
 #  Umer Zafar!
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDRmMjE0OGdrcGIzN3gxemJvM2N1c3l2djVmMnNhNGx3dG5vY2p3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif)
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 > *"Every expert was once a beginner who never gave up."*
 
